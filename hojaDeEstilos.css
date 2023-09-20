@@ -1,0 +1,56 @@
+html {
+    background-color: #00539f;/* px quiere decir 'píxeles': el tamaño de la fuente base es ahora de 10 píxeles de altura */
+    font-family: "Open Sans", sans-serif; /* Este debe ser el resto del resultado que obtuviste de Google fonts */
+  }
+
+  header {
+  font-size: 25px; 
+  font-family: "Open Sans", sans-serif; 
+  color: #ffffff;
+  background-color: rgb(25, 68, 18);
+}
+footer {
+  font-size: 15px; 
+  font-family: "Open Sans", sans-serif; 
+  color: #ffffff;
+}
+
+.img-1 {
+  width: 200px;
+  height: 250px;
+  margin-left: 65px;
+}
+.img-2 {
+  width: 200px;
+  height: 250px;
+  margin-left: 550px;
+}
+
+.container {
+  display: flex;
+  background-color: #ffffffa9;
+  padding: 15px;
+  border-style: groove;
+}
+.espacio{
+  gap: 20px;
+  padding: 10px;
+}
+.div-izq{
+  background-color: #ffffff;
+  width: 500px;
+  padding: 300;
+}
+
+.div-der{
+  background-color: #ffffff;
+  margin-left: 25px;
+  width: 500px;
+}
+.table-1{
+  background-color: #ffffff;
+  padding: 50px;
+}
+.Titulo_Central{
+  margin-left: 325px;
+}
